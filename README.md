@@ -1,2 +1,2 @@
 # VisualRecAssignment2
-Used RetinaNet to localize and identify numbers in images.
+Modified RetinaNet to localize and identify numbers in Double Digit MNIST images.
